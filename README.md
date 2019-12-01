@@ -13,7 +13,7 @@
 
 ## :raised_hands: Contributing
 #### To add new code to the master branch follow these steps:
-- `pull origin master`
+- `git pull origin master`
 - `git checkout -b your-branch-name`
 - Add your code, test if it works
 - `git add .`
