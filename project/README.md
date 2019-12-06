@@ -27,6 +27,7 @@
     - `add_trapezoid(trapezoid, new_node)` - zamienia w grafie węzeł reprezentujący `trapezoid`
     na nową strukturę `new_node. Złożoność czasowa tej operacji to O(1).
 
+
 ### Funkcje realizujące algorytm:
 
 
